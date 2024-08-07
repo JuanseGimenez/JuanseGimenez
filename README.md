@@ -5,7 +5,6 @@
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.haml`, `.css`, `.scss`
 - 🌍 I'm Spree contributor
 
-- ✍️ Follow me on [Twitter](https://x.com/jottituanse)
 - ✍️ Add me on [LinkedIn](https://www.linkedin.com/in/juanse-gimenez/)
 
 ---
